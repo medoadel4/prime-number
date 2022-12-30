@@ -1,0 +1,8 @@
+C:\Users\Mahmoud\Downloads\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.exe.config
+C:\Users\Mahmoud\Downloads\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.exe
+C:\Users\Mahmoud\Downloads\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.pdb
+C:\Users\Mahmoud\Downloads\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Downloads\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahmoud\Downloads\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Downloads\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.exe
+C:\Users\Mahmoud\Downloads\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.pdb
